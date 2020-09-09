@@ -16,6 +16,7 @@ I am developing projects in <i>React - React / Redux - Express JS - Sequelize - 
 <h4 align="center">Skills</h4>
   <p align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/html-5.png" width="50" height="50" align="center"/>
   <img src="https://github.com/acroooo/acroooo/blob/master/img/css.png" width="50" height="50" align="center"/> 
+  <img src="https://github.com/acroooo/acroooo/blob/master/img/javascript.png" width="50" height="50" align="center"/>
   <img src="https://github.com/acroooo/acroooo/blob/master/img/react.png" width="50" height="50" align="center"/>
   <img src="https://github.com/acroooo/acroooo/blob/master/img/Redux.png" width="60" height="50" align="center"/> 
   <img src="https://github.com/acroooo/acroooo/blob/master/img/nodejs.png" width="50" height="50" align="center"/>
