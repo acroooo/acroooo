@@ -28,7 +28,7 @@ I am developing projects in <i>React - React / Redux - Express JS - Sequelize - 
 <p align="center">For a complete list of my skills see my <a href="https://www.linkedin.com/in/hernangustavochamorro/" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/linkedin.png" width="30" height="30" align="center"></img></a></p><br /> <br />
 <h4 align="center">Actually I'm learning</h4>
 <p align="center">
-  <img src="https://github.com/acroooo/acroooo/blob/master/img/mongodb.png" width="80" height="50" align="center"/>
+  <img src="https://github.com/acroooo/acroooo/blob/master/img/mongodb.png" width="80" height="80" align="center"/>
   <img src="https://github.com/acroooo/acroooo/blob/master/img/docker.png" width="50" height="50" align="center"/> 
   <img src="https://github.com/acroooo/acroooo/blob/master/img/piton.png" width="50" height="50" align="center"/>
   <img src="https://github.com/acroooo/acroooo/blob/master/img/php.png" width="60" height="50" align="center"/> 
