@@ -28,7 +28,8 @@ Me encuentro desarrollando proyectos en <i>React - React / Redux - Express JS - 
 </p><br /> <br />
 <p align="center">Para una lista completa visita mi <a href="https://www.linkedin.com/in/hernangustavochamorro/" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/linkedin.png" width="30" height="30" align="center"></img></a></p><br /> <br />
 <h4 align="center">Actualmente me encuentro aprendiendo...</h4>
-<p align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/html-5.png" width="50" height="50" align="center"/>
+<p align="center">
+  <img src="https://github.com/acroooo/acroooo/blob/master/img/mongodb.png" width="80" height="80" align="center"/>
   <img src="https://github.com/acroooo/acroooo/blob/master/img/docker.png" width="50" height="50" align="center"/> 
   <img src="https://github.com/acroooo/acroooo/blob/master/img/piton.png" width="50" height="50" align="center"/>
   <img src="https://github.com/acroooo/acroooo/blob/master/img/php.png" width="60" height="50" align="center"/> 
