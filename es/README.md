@@ -14,7 +14,7 @@ Me encuentro desarrollando proyectos en <i>React - React / Redux - Express JS - 
 </p>
 <br />
 <br />
-<h4 align="center">Habilidades</h4>
+<h2 align="center">Habilidades</h2>
   <p align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/html-5.png" width="50" height="50" align="center"/>
   <img src="https://github.com/acroooo/acroooo/blob/master/img/css.png" width="50" height="50" align="center"/> 
   <img src="https://github.com/acroooo/acroooo/blob/master/img/javascript.png" width="50" height="50" align="center"/>
@@ -28,7 +28,7 @@ Me encuentro desarrollando proyectos en <i>React - React / Redux - Express JS - 
   <img src="https://github.com/acroooo/acroooo/blob/master/img/mocha.png" width="50" height="50" align="center"/>
 </p><br /> <br />
 <p align="center">Para una lista completa visita mi <a href="https://www.linkedin.com/in/hernangustavochamorro/" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/linkedin.png" width="30" height="30" align="center"></img></a></p><br /> <br />
-<h4 align="center">Actualmente me encuentro aprendiendo...</h4>
+<h2 align="center">Actualmente me encuentro aprendiendo...</h2>
 <p align="center">
   <img src="https://github.com/acroooo/acroooo/blob/master/img/mongodb.png" width="80" height="80" align="center"/>
   <img src="https://github.com/acroooo/acroooo/blob/master/img/docker.png" width="50" height="50" align="center"/> 
@@ -39,7 +39,10 @@ Me encuentro desarrollando proyectos en <i>React - React / Redux - Express JS - 
   <img src="https://github.com/acroooo/acroooo/blob/master/img/kali-linux.png" width="50" height="50" align="center"/>
   <img src="https://github.com/acroooo/acroooo/blob/master/img/ceh.png" width="80" height="50" align="center"/>
 </p><br /> <br />
-<h4 align=center>Contacto</h4>
+<h2 align="center">Works & Projects</h2>
+<p align="center"><b>Aplicación ToDo (React + Firebase)</b><br /><p>Aplicación "To Do" completa hecha en React JS, funcionalidades CRUD, Material UI para el diseño, Base de datos y Hosting con Firebase, conectados al Frontend</p><br /><a href="https://github.com/acroooo/toDoApp">Ver el Repositorio</a><br /><a href="https://todo-app-4644c.web.app/">DEMO en vivo</a></p>
+<br /><br />
+<h2 align=center>Contacto</h2>
 <p align="center">
 <a href="mailto:hernang.work@gmail.com" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/gmail.png" width="30" height="30" align="center" /></img></a> | 
 <a href="https://www.linkedin.com/in/hernangustavochamorro/" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/linkedin.png" width="30" height="30" align="center"></img></a> | 
