@@ -7,8 +7,8 @@
 Mi primer contacto de un estudio estructurado en programación fue mediante el programa <b>EmplearTec</b>, donde me gradué como <i>desarrollador PHP + MySQL</i>.<br>
 Actualmente me encuentro en la última etapa de proyectos en<b> Henry </b>, para graduarme como <i>Full Stack Developer en Javascript</i>.<br />
 Sumado a esto último, he decidido empezar mis estudios para <i>Full Stack Python</i> en el <b> PoloTic Misiones </b> de forma remota. <br />
-Poseo cursos extras en <i>Coursera, Cisco Networking Academy, Udemy, y más</i>, para mejorar mi perfil técnico (ver LinkedIn) y para poder calmar las insaciables ganas de aprender siempre un poco más de este mundo.<br />
-Me encuentro desarrollando proyectos en <i>React - React / Redux - Express JS - Sequelize - Testing</i>. Éste es el espacio donde podrán verificar el progreso.<br /><br /> 
+También poseo cursos extras (ver <a href="https://www.linkedin.com/in/hernangustavochamorro/" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/linkedin.png" width="15" height="15" align="center"></img></a>)  en <i>Coursera, Cisco Networking Academy, Udemy, y más</i>, hechos con el fin de mejorar mi perfil técnico.<br />
+En paralelo a lo mencionado, me encuentro desarrollando proyectos en <i>React - React / Redux - Express JS - Sequelize - Testing</i>. Éste es el espacio donde podrán verificar el progreso.<br /><br /> 
 <i>"Coming together is a beginning. Keeping together is progress. Working together is success."<br />
 <b>Trabajemos juntos!</b></i>
 </p>
