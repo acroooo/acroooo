@@ -13,7 +13,7 @@ I am developing projects in <i>React - React / Redux - Express JS - Sequelize - 
 </p>
 <br />
 <br />
-<h4 align="center">Skills</h4>
+<h2 align="center">Skills</h2>
   <p align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/html-5.png" width="50" height="50" align="center"/>
   <img src="https://github.com/acroooo/acroooo/blob/master/img/css.png" width="50" height="50" align="center"/> 
   <img src="https://github.com/acroooo/acroooo/blob/master/img/javascript.png" width="50" height="50" align="center"/>
@@ -27,7 +27,7 @@ I am developing projects in <i>React - React / Redux - Express JS - Sequelize - 
   <img src="https://github.com/acroooo/acroooo/blob/master/img/mocha.png" width="50" height="50" align="center"/>
 </p><br /> <br />
 <p align="center">For a complete list of my skills see my <a href="https://www.linkedin.com/in/hernangustavochamorro/" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/linkedin.png" width="30" height="30" align="center"></img></a></p><br /> <br />
-<h4 align="center">Actually I'm learning</h4>
+<h2 align="center">Actually I'm learning</h2>
 <p align="center">
   <img src="https://github.com/acroooo/acroooo/blob/master/img/mongodb.png" width="80" height="80" align="center"/>
   <img src="https://github.com/acroooo/acroooo/blob/master/img/docker.png" width="50" height="50" align="center"/> 
@@ -38,7 +38,10 @@ I am developing projects in <i>React - React / Redux - Express JS - Sequelize - 
   <img src="https://github.com/acroooo/acroooo/blob/master/img/kali-linux.png" width="50" height="50" align="center"/>
   <img src="https://github.com/acroooo/acroooo/blob/master/img/ceh.png" width="80" height="50" align="center"/>
 </p><br /> <br />
-<h4 align=center>Contact me</h4>
+<h2 align="center">Works & Projects</h2>
+<p align="center"><b>ToDo App (React + Firebase)</b><br /><p>Complete App TODO, with full CRUD funcionality, MUI for design, DB hosted on Firebase and connected in the Frontend with React JS (Hooks)</p><br /><a href="https://github.com/acroooo/toDoApp">See the Repository</a><br /><a href="https://todo-app-4644c.web.app/">Live DEMO</a></p>
+<br /><br />
+<h2 align=center>Contact me</h2>
 <p align="center">
 <a href="mailto:hernang.work@gmail.com" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/gmail.png" width="30" height="30" align="center" /></img></a> | 
 <a href="https://www.linkedin.com/in/hernangustavochamorro/" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/linkedin.png" width="30" height="30" align="center"></img></a> | 
