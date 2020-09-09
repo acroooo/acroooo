@@ -40,7 +40,7 @@ En paralelo a lo mencionado, me encuentro desarrollando proyectos en <i>React - 
   <img src="https://github.com/acroooo/acroooo/blob/master/img/ceh.png" width="80" height="50" align="center"/>
 </p><br /> <br />
 <h2 align="center">Works & Projects</h2>
-<p align="center"><b>Aplicación ToDo (React + Firebase)</b><br /><p>Aplicación "To Do" completa hecha en React JS, funcionalidades CRUD, Material UI para el diseño, Base de datos y Hosting con Firebase, conectados al Frontend</p><br /><a href="https://github.com/acroooo/toDoApp">Ver el Repositorio</a><br /><a href="https://todo-app-4644c.web.app/">DEMO en vivo</a></p>
+<p align="center"><b>Aplicación ToDo (React + Firebase)</b><br /><p>Aplicación "To Do" completa hecha en React JS, funcionalidades CRUD, Material UI para el diseño, Base de datos y Hosting con Firebase, conectados al Frontend.</p><br /><a href="https://github.com/acroooo/toDoApp">Ver el Repositorio</a><br /><a href="https://todo-app-4644c.web.app/">DEMO en vivo</a></p>
 <br /><br />
 <h2 align=center>Contacto</h2>
 <p align="center">
