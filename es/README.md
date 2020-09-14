@@ -41,7 +41,9 @@ En paralelo a lo mencionado, me encuentro desarrollando proyectos en <i>React - 
 </p><br /> <br />
 <h2 align="center">Works & Projects</h2>
 <p align="center"><b>Aplicación ToDo (React + Firebase)</b><br /><p>Aplicación "To Do" completa hecha en React JS, funcionalidades CRUD, Material UI para el diseño, Base de datos y Hosting con Firebase, conectados al Frontend.</p><br /><a href="https://github.com/acroooo/toDoApp">Ver el Repositorio</a><br /><a href="https://todo-app-4644c.web.app/">DEMO en vivo</a></p>
-<br /><br />
+<br />
+<hr />
+<p align="center"><b>Clone basado en React (React + Firebase) => EN PROGRESO</b><br /><p>Aplicación "Clone" basado en Instagram hecha en React JS, con funcionalidad de login, sign up, se puede subir posts con imágenes, y se encuentra conectada a una base de datos en Firebase, utiliza Material UI para el diseño</p><br /><a href="https://github.com/acroooo/IgReact">Ver el Repositorio</a><br /></p>
 <h2 align=center>Contacto</h2>
 <p align="center">
 <a href="mailto:hernang.work@gmail.com" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/gmail.png" width="30" height="30" align="center" /></img></a> | 
