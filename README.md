@@ -41,6 +41,7 @@ In parallel to the above, I am developing projects in <i>React - React / Redux -
 <h2 align="center">Works & Projects</h2>
 <p align="center"><b>ToDo App (React + Firebase)</b><br /><p>Complete App TODO, with full CRUD funcionality, MUI for design, DB hosted on Firebase and connected in the Frontend with React JS (Hooks).</p><br /><a href="https://github.com/acroooo/toDoApp">See the Repository</a><br /><a href="https://todo-app-4644c.web.app/">Live DEMO</a></p>
 <br /><br />
+<hr>
 <p align="center"><b>Instagram based clone (React + Firebase) => IN PROGRESS</b><br /><p>App clone based on Instagram, with login, sign up, upload posts and connected DB to Firebase, MUI for design.</p><br /><a href="https://github.com/acroooo/igReact">See the Repository</a></p>
 <br /><br />
 <h2 align=center>Contact me</h2>
