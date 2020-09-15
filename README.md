@@ -60,6 +60,11 @@ In parallel to the above, I am developing projects in <i>React - React / Redux -
     <td>See live data of Covid cases in the world with this simple application. HTML, CSS and jQuery for data requests. Demo available in a moment.</td>
     <td>/<a href="https://github.com/acroooo/Live-Covid">REPO</a></td>
   </tr>
+     <tr>
+    <td>Personal Website</td>
+    <td>My personal website! :fire:</td>
+       <td>/<a href="#">REPO</a><br />/<a href="http://www.hernanchamorro.rf.gd">SITE</a></td>
+  </tr>
 </table>
 <br /><br />
 <h2 align=center>Contact me</h2>
@@ -68,5 +73,6 @@ In parallel to the above, I am developing projects in <i>React - React / Redux -
 <a href="https://www.linkedin.com/in/hernangustavochamorro/" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/linkedin.png" width="30" height="30" align="center"></img></a> | 
 <a href="https://medium.com/@hernang.work" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/medio.png" width="30" height="30" align="center"></img></a> | 
 <a href="https://twitter.com/Hernn47603842" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/twitter.png" width="30" height="30" align="center"></img></a> | 
-<a href="https://www.instagram.com/persistent.dev/" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/instagram.png" width="30" height="30" align="center"></img></a>
+<a href="https://www.instagram.com/persistent.dev/" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/instagram.png" width="30" height="30" align="center"></img></a> |
+<a href="http://www.hernanchamorro.rf.gd" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/www.png" width="30" height="30" align="center"></img></a>
 </p>
