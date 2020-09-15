@@ -39,10 +39,28 @@ In parallel to the above, I am developing projects in <i>React - React / Redux -
   <img src="https://github.com/acroooo/acroooo/blob/master/img/ceh.png" width="80" height="50" align="center"/>
 </p><br /> <br />
 <h2 align="center">Works & Projects</h2>
-<p align="center"><b>ToDo App (React + Firebase)</b><br /><p>Complete App TODO, with full CRUD funcionality, MUI for design, DB hosted on Firebase and connected in the Frontend with React JS (Hooks).</p><br /><a href="https://github.com/acroooo/toDoApp">See the Repository</a><br /><a href="https://todo-app-4644c.web.app/">Live DEMO</a></p>
-<br />
-<hr>
-<p align="center"><b>Instagram based clone (React + Firebase) => IN PROGRESS</b><br /><p>App clone based on Instagram constructed with React JS, functionalities of login, sign up, with upload for posts and connected DB to Firebase, MUI for design.</p><br /><a href="https://github.com/acroooo/igReact">See the Repository</a></p>
+<table style="width:100%">
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>ToDo App</td>
+    <td>Complete App TODO, with full CRUD funcionality, MUI for design, DB hosted on Firebase and connected in the Frontend with React JS (Hooks)</td>
+    <td>/<a href="https://github.com/acroooo/toDoApp">REPO</a><br />/<a href="https://todo-app-4644c.web.app/">DEMO</a></td>
+  </tr>
+   <tr>
+    <td>IG React Clone</td>
+    <td>(In Progress)App clone based on Instagram constructed with React JS, functionalities of login, sign up, with upload for posts and connected DB to Firebase, MUI for design.</td>
+    <td>/<a href="https://github.com/acroooo/igReact">REPO</a></td>
+  </tr>
+   <tr>
+    <td>Live Covid</td>
+    <td>See live data of Covid cases in the world with this simple application.</td>
+    <td>/<a href="https://github.com/acroooo/Live-Covid">REPO</a></td>
+  </tr>
+</table>
 <br /><br />
 <h2 align=center>Contact me</h2>
 <p align="center">
