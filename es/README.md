@@ -40,10 +40,28 @@ En paralelo a lo mencionado, me encuentro desarrollando proyectos en <i>React - 
   <img src="https://github.com/acroooo/acroooo/blob/master/img/ceh.png" width="80" height="50" align="center"/>
 </p><br /> <br />
 <h2 align="center">Works & Projects</h2>
-<p align="center"><b>Aplicación ToDo (React + Firebase)</b><br /><p>Aplicación "To Do" completa hecha en React JS, funcionalidades CRUD, Material UI para el diseño, Base de datos y Hosting con Firebase, conectados al Frontend.</p><br /><a href="https://github.com/acroooo/toDoApp">Ver el Repositorio</a><br /><a href="https://todo-app-4644c.web.app/">DEMO en vivo</a></p>
-<br />
-<hr />
-<p align="center"><b>Clone basado en React (React + Firebase) => EN PROGRESO</b><br /><p>Aplicación "Clone" basado en Instagram hecha en React JS, con funcionalidad de login, sign up, se puede subir posts con imágenes, y se encuentra conectada a una base de datos en Firebase, utiliza Material UI para el diseño</p><br /><a href="https://github.com/acroooo/IgReact">Ver el Repositorio</a><br /></p>
+<table style="width:100%">
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>Aplicación ToDo</td>
+    <td>Aplicación "To Do" completa hecha en React JS, funcionalidades CRUD, Material UI para el diseño, Base de datos y Hosting con Firebase, conectados al Frontend</td>
+    <td>/<a href="https://github.com/acroooo/toDoApp">REPO</a><br />/<a href="https://todo-app-4644c.web.app/">DEMO</a></td>
+  </tr>
+   <tr>
+    <td>Clon IG React</td>
+    <td>(En progreso)Aplicación "Clone" basado en Instagram hecha en React JS, con funcionalidad de login, sign up, se puede subir posts con imágenes, y se encuentra conectada a una base de datos en Firebase, utiliza Material UI para el diseño</td>
+    <td>/<a href="https://github.com/acroooo/igReact">REPO</a></td>
+  </tr>
+   <tr>
+    <td>Live Covid</td>
+    <td>Vea datos en vivo de los casos de covid en el mundo. HTML, CSS y jQuery para las peticiones de datos. La demo estará disponible en un momento...</td>
+    <td>/<a href="https://github.com/acroooo/Live-Covid">REPO</a></td>
+  </tr>
+</table>
 <h2 align=center>Contacto</h2>
 <p align="center">
 <a href="mailto:hernang.work@gmail.com" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/gmail.png" width="30" height="30" align="center" /></img></a> | 
