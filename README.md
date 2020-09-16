@@ -63,7 +63,12 @@ In parallel to the above, I am developing projects in <i>React - React / Redux -
      <tr>
     <td>Personal Website</td>
     <td>My personal website! :fire:</td>
-       <td>/<a href="#">REPO</a><br />/<a href="http://www.hernanchamorro.rf.gd">SITE</a></td>
+       <td>/<a href="https://www.github.com/acroooo/htmlpersonalweb">REPO</a><br />/<a href="http://www.hernanchamorro.rf.gd">SITE</a></td>
+  </tr>
+  <tr>
+    <td>CRUD API</td>
+    <td>A simple CRUD API created with the template "create-express-api", node, express, and modules monk and @hapi/joi for practice server & Mongo DB skills.</td>
+       <td>/<a href="https://github.com/acroooo/CRUD-API-Node-Express-Mongo">REPO</a></td>
   </tr>
 </table>
 <br /><br />
