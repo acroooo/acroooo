@@ -64,7 +64,12 @@ En paralelo a lo mencionado, me encuentro desarrollando proyectos en <i>React - 
      <tr>
     <td>Sitio Personal</td>
     <td>Mi sitio web personal :fire:</td>
-    <td>/<a href="#">REPO</a></td><br />/<a href="http://www.hernanchamorro.rf.gd/">DEMO</a>
+    <td>/<a href="https://github.com/acroooo/htmlpersonalweb">REPO</a></td><br />/<a href="http://www.hernanchamorro.rf.gd/">DEMO</a>
+  </tr>
+       <tr>
+    <td>CRUD API</td>
+    <td>CRUD API simple creada a partir de la plantilla "create-express-api", node, express, y los modulos monk y @hapi/joi, para practicar habilidades en MongoDB y creación de servidores.</td>
+    <td>/<a href="https://github.com/acroooo/CRUD-API-Node-Express-Mongo">REPO</a></td></a>
   </tr>
 </table>
 <h2 align=center>Contacto</h2>
