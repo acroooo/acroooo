@@ -39,7 +39,7 @@ En paralelo a lo mencionado, me encuentro desarrollando proyectos en <i>React - 
   <img src="https://github.com/acroooo/acroooo/blob/master/img/kali-linux.png" width="50" height="50" align="center"/>
   <img src="https://github.com/acroooo/acroooo/blob/master/img/ceh.png" width="80" height="50" align="center"/>
 </p><br /> <br />
-<h2 align="center">Works & Projects</h2>
+<h2 align="center">Trabajos & Proyectos</h2>
 <table style="width:100%">
   <tr>
     <th>Name</th>
