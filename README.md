@@ -52,8 +52,8 @@ In parallel to the above, I am developing projects in <i>React - React / Redux -
   </tr>
    <tr>
     <td>IG React Clone</td>
-    <td>(In Progress)App clone based on Instagram constructed with React JS, functionalities of login, sign up, with upload for posts and connected DB to Firebase, MUI for design.</td>
-    <td>/<a href="https://github.com/acroooo/igReact">REPO</a></td>
+    <td>:fire: App clone based on Instagram constructed with React JS, functionalities of login, sign up, with upload for posts and connected DB to Firebase, MUI for design.</td>
+    <td>/<a href="https://github.com/acroooo/igReact">REPO</a><br />/<a href="https://igreact-b3fda.web.app">DEMO</a></td>
   </tr>
    <tr>
     <td>Live Covid</td>
