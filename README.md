@@ -67,7 +67,7 @@ In parallel to the above, I am developing projects in <i>React - React / Redux -
   </tr>
   <tr>
     <td>CRUD API</td>
-    <td>A simple CRUD API created with the template "create-express-api", node, express, and modules monk and @hapi/joi for practice server & Mongo DB skills.</td>
+    <td>A simple CRUD API created with the template "create-express-api", node, express, modules monk and @hapi/joi for practice server & Mongo DB skills.</td>
        <td>/<a href="https://github.com/acroooo/CRUD-API-Node-Express-Mongo">REPO</a></td>
   </tr>
 </table>
