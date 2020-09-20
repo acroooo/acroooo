@@ -57,7 +57,7 @@ In parallel to the above, I am developing projects in <i>React - React / Redux -
   </tr>
    <tr>
     <td>Live Covid</td>
-    <td>See live data of Covid cases in the world with this simple application. HTML, CSS and jQuery for data requests. Demo available in a moment.</td>
+    <td>See live data of Covid cases in the world with this simple application. HTML, CSS and jQuery for data requests.</td>
     <td>/<a href="https://github.com/acroooo/Live-Covid">REPO</a></td>
   </tr>
      <tr>
