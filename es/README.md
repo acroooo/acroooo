@@ -64,7 +64,7 @@ En paralelo a lo mencionado, me encuentro desarrollando proyectos en <i>React - 
      <tr>
     <td>Sitio Personal</td>
     <td>Mi sitio web personal :fire:</td>
-    <td>/<a href="https://github.com/acroooo/htmlpersonalweb">REPO</a></td><br />/<a href="http://www.hernanchamorro.rf.gd/">LINK</a></td>
+    <td>/<a href="https://github.com/acroooo/igReact">REPO</a><br />/<a href="http://hernanchamorro.rf.gd">LINK</a></td></td>
   </tr>
        <tr>
     <td>CRUD API</td>
