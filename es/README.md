@@ -58,7 +58,7 @@ En paralelo a lo mencionado, me encuentro desarrollando proyectos en <i>React - 
   </tr>
    <tr>
     <td>Live Covid</td>
-    <td>Vea datos en vivo de los casos de covid en el mundo. HTML, CSS y jQuery para las peticiones de datos. La demo estará disponible en un momento...</td>
+    <td>Vea datos en vivo de los casos de covid en el mundo. HTML, CSS y jQuery para las peticiones de datos.</td>
     <td>/<a href="https://github.com/acroooo/Live-Covid">REPO</a></td>
   </tr>
      <tr>
