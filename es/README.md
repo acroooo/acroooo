@@ -53,8 +53,8 @@ En paralelo a lo mencionado, me encuentro desarrollando proyectos en <i>React - 
   </tr>
    <tr>
     <td>Clon IG React</td>
-    <td>(En progreso)Aplicación "Clone" basado en Instagram hecha en React JS, con funcionalidad de login, sign up, se puede subir posts con imágenes, y se encuentra conectada a una base de datos en Firebase, utiliza Material UI para el diseño</td>
-    <td>/<a href="https://github.com/acroooo/igReact">REPO</a></td>
+    <td>:fire: Aplicación "Clone" basado en Instagram hecha en React JS, con funcionalidad de login, sign up, se puede subir posts con imágenes, y se encuentra conectada a una base de datos en Firebase, utiliza Material UI para el diseño</td>
+    <td>/<a href="https://github.com/acroooo/igReact">REPO</a><br />/<a href="https://igreact-b3fda.web.app">DEMO</a></td></td>
   </tr>
    <tr>
     <td>Live Covid</td>
