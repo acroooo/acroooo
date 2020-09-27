@@ -1,5 +1,4 @@
 <h2 align="center">:rocket: Hi, I'm Hernán Gustavo Chamorro :rocket:</h2><p>
-<h4>:fire: Check my personal website <a href="http://www.hernanchamorro.rf.gd/">HERE!</a></h4>
 <h4>For a spanish versión, <a href="https://github.com/acroooo/acroooo/blob/master/es/README.md">click here</a></h4>
 <p>Welcome to my repo, the storage where I keep code made based on the knowledge that I have been absorbing over the years. One of my goals is to be able to work for first time in IT at developer, generating an impact on users around the world.<br>
 :telescope: I am interested in <b><i>software development and cybersecurity</i></b>. <br>
