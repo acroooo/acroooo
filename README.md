@@ -37,40 +37,6 @@ In parallel to the above, I am developing projects in <i>React - React / Redux -
   <img src="https://github.com/acroooo/acroooo/blob/master/img/kali-linux.png" width="50" height="50" align="center"/>
   <img src="https://github.com/acroooo/acroooo/blob/master/img/ceh.png" width="80" height="50" align="center"/>
 </p><br /> <br />
-<h2 align="center">Works & Projects</h2>
-<table style="width:100%">
-  <tr>
-    <th>Name</th>
-    <th>Description</th>
-    <th>Code</th>
-  </tr>
-  <tr>
-    <td>ToDo App</td>
-    <td>Complete App TODO, with full CRUD funcionality, MUI for design, DB hosted on Firebase and connected in the Frontend with React JS (Hooks)</td>
-    <td>/<a href="https://github.com/acroooo/toDoApp">REPO</a><br />/<a href="https://todo-app-4644c.web.app/">DEMO</a></td>
-  </tr>
-   <tr>
-    <td>IG React Clone</td>
-    <td>:fire: App clone based on Instagram constructed with React JS, functionalities of login, sign up, with upload for posts and connected DB to Firebase, MUI for design.</td>
-    <td>/<a href="https://github.com/acroooo/igReact">REPO</a><br />/<a href="https://igreact-b3fda.web.app">DEMO</a></td>
-  </tr>
-   <tr>
-    <td>Live Covid</td>
-    <td>See live data of Covid cases in the world with this simple application. HTML, CSS and jQuery for data requests.</td>
-    <td>/<a href="https://github.com/acroooo/Live-Covid">REPO</a></td>
-  </tr>
-     <tr>
-    <td>Personal Website</td>
-    <td>My personal website! :fire:</td>
-       <td>/<a href="https://www.github.com/acroooo/htmlpersonalweb">REPO</a><br />/<a href="http://www.hernanchamorro.rf.gd">SITE</a></td>
-  </tr>
-  <tr>
-    <td>CRUD API</td>
-    <td>A simple CRUD API created with the template "create-express-api", node, express, modules monk and @hapi/joi for practice server & Mongo DB skills.</td>
-       <td>/<a href="https://github.com/acroooo/CRUD-API-Node-Express-Mongo">REPO</a></td>
-  </tr>
-</table>
-<br /><br />
 <h2 align=center>Contact me</h2>
 <p align="center">
 <a href="mailto:hernang.work@gmail.com" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/gmail.png" width="30" height="30" align="center" /></img></a> | 
