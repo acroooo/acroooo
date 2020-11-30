@@ -39,39 +39,6 @@ En paralelo a lo mencionado, me encuentro desarrollando proyectos en <i>React - 
   <img src="https://github.com/acroooo/acroooo/blob/master/img/kali-linux.png" width="50" height="50" align="center"/>
   <img src="https://github.com/acroooo/acroooo/blob/master/img/ceh.png" width="80" height="50" align="center"/>
 </p><br /> <br />
-<h2 align="center">Trabajos & Proyectos</h2>
-<table style="width:100%">
-  <tr>
-    <th>Name</th>
-    <th>Description</th>
-    <th>Code</th>
-  </tr>
-  <tr>
-    <td>Aplicación ToDo</td>
-    <td>Aplicación "To Do" completa hecha en React JS, funcionalidades CRUD, Material UI para el diseño, Base de datos y Hosting con Firebase, conectados al Frontend</td>
-    <td>/<a href="https://github.com/acroooo/toDoApp">REPO</a><br />/<a href="https://todo-app-4644c.web.app/">DEMO</a></td>
-  </tr>
-   <tr>
-    <td>Clon IG React</td>
-    <td>:fire: Aplicación "Clone" basado en Instagram hecha en React JS, con funcionalidad de login, sign up, se puede subir posts con imágenes, y se encuentra conectada a una base de datos en Firebase, utiliza Material UI para el diseño</td>
-    <td>/<a href="https://github.com/acroooo/igReact">REPO</a><br />/<a href="https://igreact-b3fda.web.app">DEMO</a></td></td>
-  </tr>
-   <tr>
-    <td>Live Covid</td>
-    <td>Vea datos en vivo de los casos de covid en el mundo. HTML, CSS y jQuery para las peticiones de datos.</td>
-    <td>/<a href="https://github.com/acroooo/Live-Covid">REPO</a></td>
-  </tr>
-     <tr>
-    <td>Sitio Personal</td>
-    <td>Mi sitio web personal :fire:</td>
-    <td>/<a href="ttps://github.com/acroooo/htmlpersonalweb">REPO</a><br />/<a href="http://hernanchamorro.rf.gd">LINK</a></td></td>
-  </tr>
-       <tr>
-    <td>CRUD API</td>
-    <td>CRUD API simple creada a partir de la plantilla "create-express-api", node, express, y los modulos monk y @hapi/joi, para practicar habilidades en MongoDB y creación de servidores.</td>
-    <td>/<a href="https://github.com/acroooo/CRUD-API-Node-Express-Mongo">REPO</a></td></a>
-  </tr>
-</table>
 <h2 align=center>Contacto</h2>
 <p align="center">
 <a href="mailto:hernang.work@gmail.com" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/gmail.png" width="30" height="30" align="center" /></img></a> | 
