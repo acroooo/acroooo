@@ -1,6 +1,6 @@
 
-<h2 align="center">:rocket: Hola, soy Hernán Gustavo Chamorro :rocket:</h2><p>
-<h4>:fire: Mi sitio web <a href="http://www.hernanchamorro.rf.gd/">ACÁ</a></h4>
+<h2 align="center">:rocket: Hola, soy Hernán Gustavo Chamorro :rocket:</h2>
+<p>
 <h4>For an english versión, <a href="https://github.com/acroooo/acroooo/blob/master/README.md">click here</a></h4>
 <p>Bienvenidos a mi repositorio, la baulera en donde guardo código hecho en base al conocimiento que he ido absorviendo en estos años. Una de mis metas es poder conseguir mi primer trabajo en IT como desarrollador, generando impacto en usuarios alrededor del mundo.<br>
 :telescope: Me interesa el <b><i>desarrollo de software y la ciberseguridad</i></b>. <br>
