@@ -1,3 +1,5 @@
+https://hernanchamorro.com/
+
 <h2 align="center">:rocket: Hi, I'm Hernán Gustavo Chamorro :rocket:</h2><p>
 <h4>For a spanish versión, <a href="https://github.com/acroooo/acroooo/blob/master/es/README.md">click here</a></h4>
 <p>Welcome to my repo, the storage where I keep code made based on the knowledge that I have been absorbing over the years. One of my goals is to be able to work for first time in IT at developer, generating an impact on users around the world.<br>
@@ -17,7 +19,6 @@ In parallel to the above, I am developing projects in <i>React - React / Redux -
 <a href="mailto:hernang.work@gmail.com" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/gmail.png" width="30" height="30" align="center" /></img></a> | 
 <a href="https://www.linkedin.com/in/hernangustavochamorro/" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/linkedin.png" width="30" height="30" align="center"></img></a> | 
 <a href="https://medium.com/@hernang.work" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/medio.png" width="30" height="30" align="center"></img></a> | 
-<a href="https://twitter.com/Hernn47603842" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/twitter.png" width="30" height="30" align="center"></img></a> | 
-<a href="https://www.instagram.com/persistent.dev/" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/instagram.png" width="30" height="30" align="center"></img></a> |
-<a href="http://www.hernanchamorro.rf.gd" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/www.png" width="30" height="30" align="center"></img></a>
+<a href="https://twitter.com/Hernan_frontdev" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/twitter.png" width="30" height="30" align="center"></img></a> | 
+<a href="https://www.instagram.com/hernancode/" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/instagram.png" width="30" height="30" align="center"></img></a>
 </p>
