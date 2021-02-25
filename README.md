@@ -12,31 +12,6 @@ In parallel to the above, I am developing projects in <i>React - React / Redux -
 </p>
 <br />
 <br />
-<h2 align="center">Skills</h2>
-  <p align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/html-5.png" width="50" height="50" align="center"/>
-  <img src="https://github.com/acroooo/acroooo/blob/master/img/css.png" width="50" height="50" align="center"/> 
-  <img src="https://github.com/acroooo/acroooo/blob/master/img/javascript.png" width="50" height="50" align="center"/>
-  <img src="https://github.com/acroooo/acroooo/blob/master/img/react.png" width="50" height="50" align="center"/>
-  <img src="https://github.com/acroooo/acroooo/blob/master/img/Redux.png" width="60" height="50" align="center"/> 
-  <img src="https://github.com/acroooo/acroooo/blob/master/img/nodejs.png" width="50" height="50" align="center"/>
-  <img src="https://github.com/acroooo/acroooo/blob/master/img/express.png" width="50" height="50" align="center"/>
-  <img src="https://github.com/acroooo/acroooo/blob/master/img/gnu-bash.png" width="50" height="50" align="center"/>
-  <img src="https://github.com/acroooo/acroooo/blob/master/img/postgresql.png" width="50" height="50" align="center"/>
-  <img src="https://github.com/acroooo/acroooo/blob/master/img/file_type_sequelize_icon_130173.png" width="50" height="50" align="center"/>
-  <img src="https://github.com/acroooo/acroooo/blob/master/img/mocha.png" width="50" height="50" align="center"/>
-</p><br /> <br />
-<p align="center">For a complete list of my skills see my <a href="https://www.linkedin.com/in/hernangustavochamorro/" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/linkedin.png" width="30" height="30" align="center"></img></a></p><br /> <br />
-<h2 align="center">Actually I'm learning</h2>
-<p align="center">
-  <img src="https://github.com/acroooo/acroooo/blob/master/img/mongodb.png" width="80" height="80" align="center"/>
-  <img src="https://github.com/acroooo/acroooo/blob/master/img/docker.png" width="50" height="50" align="center"/> 
-  <img src="https://github.com/acroooo/acroooo/blob/master/img/piton.png" width="50" height="50" align="center"/>
-  <img src="https://github.com/acroooo/acroooo/blob/master/img/php.png" width="60" height="50" align="center"/> 
-  <img src="https://github.com/acroooo/acroooo/blob/master/img/typescript.png" width="50" height="50" align="center"/>
-  <img src="https://github.com/acroooo/acroooo/blob/master/img/linux_os_logo_icon_134670.png" width="50" height="50" align="center"/>
-  <img src="https://github.com/acroooo/acroooo/blob/master/img/kali-linux.png" width="50" height="50" align="center"/>
-  <img src="https://github.com/acroooo/acroooo/blob/master/img/ceh.png" width="80" height="50" align="center"/>
-</p><br /> <br />
 <h2 align=center>Contact me</h2>
 <p align="center">
 <a href="mailto:hernang.work@gmail.com" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/gmail.png" width="30" height="30" align="center" /></img></a> | 
