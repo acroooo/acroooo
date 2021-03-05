@@ -18,7 +18,7 @@ En paralelo a lo mencionado, me encuentro desarrollando proyectos en <i>React - 
 <p align="center">
 <a href="mailto:hernang.work@gmail.com" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/gmail.png" width="30" height="30" align="center" /></img></a> | 
 <a href="https://www.linkedin.com/in/hernangustavochamorro/" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/linkedin.png" width="30" height="30" align="center"></img></a> | 
-<a href="https://medium.com/@hernang.work" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/medio.png" width="30" height="30" align="center"></img></a> | 
+<a href="https://hernan-frontend.medium.com" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/medio.png" width="30" height="30" align="center"></img></a> | 
 <a href="https://twitter.com/Hernan_frontdev" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/twitter.png" width="30" height="30" align="center"></img></a> | 
 <a href="https://www.instagram.com/hernancode/" align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/instagram.png" width="30" height="30" align="center"></img></a> 
 </p>
